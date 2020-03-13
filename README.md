@@ -1,3 +1,3 @@
-# django-boilerplate
+# django-ecommerce
 
-Simple boilerplate for future django projects
+Simple ecommerce app
