@@ -2,7 +2,7 @@
 .vscode
 **/*.pyc
 **/__pycache__
-media
+media_root
 static_in_env
 .DS_Store
 *.sqlite3
